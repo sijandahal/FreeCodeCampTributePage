@@ -1,0 +1,48 @@
+ body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+}
+
+#main {
+  background: #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 35px;
+}
+
+#image {
+  height: 500px;
+}
+
+#img-caption {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h2 {
+  font-size: 38px;
+}
+
+a {
+  color: teal;
+}
+
+a:hover {
+  color: red;
+}
+
+#tribute_link {
+  font-size: 20px;
+}
+
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
